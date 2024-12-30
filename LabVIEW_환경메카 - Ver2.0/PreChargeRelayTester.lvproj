@@ -506,7 +506,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CF1E0245-FC4E-4C55-B29B-025945F73780}</Property>
-				<Property Name="Bld_version.build" Type="Int">247</Property>
+				<Property Name="Bld_version.build" Type="Int">254</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MnE Tester.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/MnE Tester/MnE Tester.exe</Property>
@@ -516,7 +516,7 @@
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/MnE Tester/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/LabVIEW_환경메카 - Ver2.0/yoko.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{84A99C56-9E40-4944-AF47-EC502DFFD540}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{20A72ED5-37EC-4690-87E3-A88FEEABD211}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/LabVIEW_환경메카 - Ver2.0/Main_MnE.vi</Property>
