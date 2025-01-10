@@ -506,7 +506,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CF1E0245-FC4E-4C55-B29B-025945F73780}</Property>
-				<Property Name="Bld_version.build" Type="Int">287</Property>
+				<Property Name="Bld_version.build" Type="Int">310</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MnE Tester.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/MnE Tester/MnE Tester.exe</Property>
