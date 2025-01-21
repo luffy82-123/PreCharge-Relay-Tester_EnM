@@ -23,15 +23,6 @@
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="_YKDLM2000 Byte Logic Data Convert.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/_YKDLM2000 Byte Logic Data Convert.vi"/>
-				<Item Name="_YKDLM2000 Default Instrument Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/_YKDLM2000 Default Instrument Setup.vi"/>
-				<Item Name="_YKDLM2000 Query.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/_YKDLM2000 Query.vi"/>
-				<Item Name="_YKDLM2000 Read Byte Data.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/_YKDLM2000 Read Byte Data.vi"/>
-				<Item Name="_YKDLM2000 Read Word Data.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/_YKDLM2000 Read Word Data.vi"/>
-				<Item Name="_YKDLM2000 Word Wave Data Convert.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/_YKDLM2000 Word Wave Data Convert.vi"/>
-				<Item Name="_YKDLM2000 Write.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/_YKDLM2000 Write.vi"/>
-				<Item Name="DTbl Binary U8 to Digital.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/DTbl Binary U8 to Digital.vi"/>
-				<Item Name="DWDT Binary U8 to Digital.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/_ykdlm2000.llb/DWDT Binary U8 to Digital.vi"/>
 				<Item Name="Keithley 2450.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Keithley 2450/Keithley 2450.lvlib"/>
 				<Item Name="NF BP BAS_ACCU.vi" Type="VI" URL="/&lt;instrlib&gt;/NF BP/Public/Basic Command/NF BP BAS_ACCU.vi"/>
 				<Item Name="NF BP BAS_ACVL.vi" Type="VI" URL="/&lt;instrlib&gt;/NF BP/Public/Basic Command/NF BP BAS_ACVL.vi"/>
@@ -96,88 +87,6 @@
 				<Item Name="NF BP WAV_ARBM.vi" Type="VI" URL="/&lt;instrlib&gt;/NF BP/Public/Arbitrary Waveform/NF BP WAV_ARBM.vi"/>
 				<Item Name="NF BP WAV_ARBN.vi" Type="VI" URL="/&lt;instrlib&gt;/NF BP/Public/Arbitrary Waveform/NF BP WAV_ARBN.vi"/>
 				<Item Name="NF BP WAV_ARBT.vi" Type="VI" URL="/&lt;instrlib&gt;/NF BP/Public/Arbitrary Waveform/NF BP WAV_ARBT.vi"/>
-				<Item Name="YKDLM2000 Abort.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Abort.vi"/>
-				<Item Name="YKDLM2000 Acquire Continuous Multiple Waveform Example.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Acquire Continuous Multiple Waveform Example.vi"/>
-				<Item Name="YKDLM2000 Acquire Continuous Waveform Example.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Acquire Continuous Waveform Example.vi"/>
-				<Item Name="YKDLM2000 Acquire Waveform Example.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Acquire Waveform Example.vi"/>
-				<Item Name="YKDLM2000 Autosetup.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Autosetup.vi"/>
-				<Item Name="YKDLM2000 Clear Trace.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Clear Trace.vi"/>
-				<Item Name="YKDLM2000 Close.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Close.vi"/>
-				<Item Name="YKDLM2000 Configure Accumulate.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Accumulate.vi"/>
-				<Item Name="YKDLM2000 Configure Acquisition.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Acquisition.vi"/>
-				<Item Name="YKDLM2000 Configure Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Channel.vi"/>
-				<Item Name="YKDLM2000 Configure Display Logic.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Display Logic.vi"/>
-				<Item Name="YKDLM2000 Configure Display.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Display.vi"/>
-				<Item Name="YKDLM2000 Configure Edge B Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Edge B Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure Edge OR Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Edge OR Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure Edge Qualify B Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Edge Qualify B Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure Edge Qualify Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Edge Qualify Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure Edge Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Edge Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure FFT Scale.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure FFT Scale.vi"/>
-				<Item Name="YKDLM2000 Configure FFT.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure FFT.vi"/>
-				<Item Name="YKDLM2000 Configure History.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure History.vi"/>
-				<Item Name="YKDLM2000 Configure Logic Threshold.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Logic Threshold.vi"/>
-				<Item Name="YKDLM2000 Configure Logic.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Logic.vi"/>
-				<Item Name="YKDLM2000 Configure Math Count.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Math Count.vi"/>
-				<Item Name="YKDLM2000 Configure Math Filter.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Math Filter.vi"/>
-				<Item Name="YKDLM2000 Configure Math Initial Point.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Math Initial Point.vi"/>
-				<Item Name="YKDLM2000 Configure Math Label Unit.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Math Label Unit.vi"/>
-				<Item Name="YKDLM2000 Configure Math Operation.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Math Operation.vi"/>
-				<Item Name="YKDLM2000 Configure Measurement Delay.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Measurement Delay.vi"/>
-				<Item Name="YKDLM2000 Configure Measurement.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Measurement.vi"/>
-				<Item Name="YKDLM2000 Configure Pulse Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Pulse Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure Reference Load.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Reference Load.vi"/>
-				<Item Name="YKDLM2000 Configure Reference.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Reference.vi"/>
-				<Item Name="YKDLM2000 Configure State B Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure State B Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure State Trigger Combination.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure State Trigger Combination.vi"/>
-				<Item Name="YKDLM2000 Configure State Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure State Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure State Width Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure State Width Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure Timebase.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Timebase.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger Combination.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger Combination.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger Delay.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger Delay.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger Hold Off.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger Hold Off.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger Mode.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger Position.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger Position.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger Source.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger Source.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger TV User.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger TV User.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger Width Time.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger Width Time.vi"/>
-				<Item Name="YKDLM2000 Configure Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure TV Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure TV Trigger.vi"/>
-				<Item Name="YKDLM2000 Configure Vertical.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Vertical.vi"/>
-				<Item Name="YKDLM2000 Configure Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Waveform.vi"/>
-				<Item Name="YKDLM2000 Configure Zoom Channel.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Zoom Channel.vi"/>
-				<Item Name="YKDLM2000 Configure Zoom Mode.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Zoom Mode.vi"/>
-				<Item Name="YKDLM2000 Configure Zoom Window.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Configure Zoom Window.vi"/>
-				<Item Name="YKDLM2000 Edge Triggered Acquisition.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Edge Triggered Acquisition.vi"/>
-				<Item Name="YKDLM2000 Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Error Query.vi"/>
-				<Item Name="YKDLM2000 Fetch Logic.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Fetch Logic.vi"/>
-				<Item Name="YKDLM2000 Fetch Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Fetch Waveform.vi"/>
-				<Item Name="YKDLM2000 Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Initialize.vi"/>
-				<Item Name="YKDLM2000 Initiate.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Initiate.vi"/>
-				<Item Name="YKDLM2000 Query Condition Status.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Condition Status.vi"/>
-				<Item Name="YKDLM2000 Query Offset.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Offset.vi"/>
-				<Item Name="YKDLM2000 Query Option.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Option.vi"/>
-				<Item Name="YKDLM2000 Query Range.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Range.vi"/>
-				<Item Name="YKDLM2000 Query Record Length.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Record Length.vi"/>
-				<Item Name="YKDLM2000 Query Sample Rate.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Sample Rate.vi"/>
-				<Item Name="YKDLM2000 Query Timebase.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Timebase.vi"/>
-				<Item Name="YKDLM2000 Query Trigger.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Trigger.vi"/>
-				<Item Name="YKDLM2000 Query Waveform Length.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Query Waveform Length.vi"/>
-				<Item Name="YKDLM2000 Read Image.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Read Image.vi"/>
-				<Item Name="YKDLM2000 Read Logic Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Read Logic Waveform.vi"/>
-				<Item Name="YKDLM2000 Read Multiple Waveforms.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Read Multiple Waveforms.vi"/>
-				<Item Name="YKDLM2000 Read Single Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Read Single Waveform.vi"/>
-				<Item Name="YKDLM2000 Read Waveform Measurement.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Read Waveform Measurement.vi"/>
-				<Item Name="YKDLM2000 Read Waveform.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Read Waveform.vi"/>
-				<Item Name="YKDLM2000 Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Reset.vi"/>
-				<Item Name="YKDLM2000 Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Revision Query.vi"/>
-				<Item Name="YKDLM2000 Save Image Example.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Save Image Example.vi"/>
-				<Item Name="YKDLM2000 Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Self-Test.vi"/>
-				<Item Name="YKDLM2000 Single Start.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Single Start.vi"/>
-				<Item Name="YKDLM2000 Snapshot.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Snapshot.vi"/>
-				<Item Name="YKDLM2000 Transfer Current Waveform Example.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Transfer Current Waveform Example.vi"/>
-				<Item Name="YKDLM2000 VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 VI Tree.vi"/>
-				<Item Name="YKDLM2000 Wait for Acquisition Complete.vi" Type="VI" URL="/&lt;instrlib&gt;/ykdlm2000/ykdlm2000.llb/YKDLM2000 Wait for Acquisition Complete.vi"/>
 				<Item Name="Yokogawa DL950 Series.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Yokogawa DL950 Series/Yokogawa DL950 Series.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
@@ -192,8 +101,6 @@
 				<Item Name="compatFileDialog.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatFileDialog.vi"/>
 				<Item Name="compatOpenFileOperation.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatOpenFileOperation.vi"/>
 				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
-				<Item Name="compatWriteText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatWriteText.vi"/>
-				<Item Name="Compress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDT.llb/Compress Digital.vi"/>
 				<Item Name="Convert DDT to 1DDbl.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/miscellaneous.llb/Convert DDT to 1DDbl.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
 				<Item Name="DAQmx Advance Trigger (Digital Edge).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/trigger.llb/DAQmx Advance Trigger (Digital Edge).vi"/>
@@ -411,10 +318,8 @@
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
 				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
-				<Item Name="DTbl Compress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Compress Digital.vi"/>
 				<Item Name="DTbl Digital Size.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Digital Size.vi"/>
 				<Item Name="DTbl Uncompress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Uncompress Digital.vi"/>
-				<Item Name="DWDT Compress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Compress Digital.vi"/>
 				<Item Name="DWDT Uncompress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Uncompress Digital.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
@@ -473,8 +378,6 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="VISA Open Access Mode.ctl" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Open Access Mode.ctl"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
-				<Item Name="Write Characters To File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Characters To File.vi"/>
-				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
 				<Item Name="Write to XML File(string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(string).vi"/>
 				<Item Name="Write to XML File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File.vi"/>
@@ -506,7 +409,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{CF1E0245-FC4E-4C55-B29B-025945F73780}</Property>
-				<Property Name="Bld_version.build" Type="Int">327</Property>
+				<Property Name="Bld_version.build" Type="Int">334</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">MnE Tester.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/MnE Tester/MnE Tester.exe</Property>
